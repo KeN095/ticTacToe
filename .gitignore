@@ -1,3 +1,6 @@
 /.vs
 /Debug
 /ticTacToe/Debug
+*.vcxproj
+*.vcxproj.filter
+*.vcxproj.user
