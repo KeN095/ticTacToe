@@ -1,1 +1,1 @@
-A simple 2 player tic tac toe game in C++
+A simple 2 player tic tac toe command-line game in C++
